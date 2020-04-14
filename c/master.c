@@ -1,26 +1,15 @@
-/****************************************************************************
-*
-*	What does it do...
-*
-*	Where is the code from: Practical C - S. Oualline.
-*
-*	K.Marshall 
-*
-*****************************************************************************/
+/*****************************************************************************
+* Practice examples from S.Oualline Pracitical C Third Edition
+* Example:
+* Outline:
+* Author: K. Marshall Licence: GPL v2
+******************************************************************************/
 
 #include <stdio.h>
 
 
-
-
-int main()
+int main(0)
 {
-
-
-
-
-
-
-
-	return(0);
+  /* code */
+  return(0);
 }
